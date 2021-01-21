@@ -1,0 +1,5 @@
+Magic command to know how fast this code running
+- %timeit and see all the magic command %lsmagic
+
+Code Profiling
+Use package line_profiler
