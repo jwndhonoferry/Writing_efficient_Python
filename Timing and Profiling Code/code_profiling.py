@@ -15,5 +15,5 @@ def convert(hero, h, w):
         data_hero[hero] = (new_h[i], new_w[i])
 
     return data_hero
-
+#print
 print(convert(heroes, height, weight))
