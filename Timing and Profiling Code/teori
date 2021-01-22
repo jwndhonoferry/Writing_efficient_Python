@@ -1,5 +1,17 @@
-Magic command to know how fast this code running
+Magic command to know how fast this code running (ipython Only)
 - %timeit and see all the magic command %lsmagic
 
 Code Profiling
-Use package line_profiler
+- Use package line_profiler
+- code profiling help us to analyze code more efficently.
+- Code profiling is a techniques used to describe how long, how often a various program being executed.
+- Line by line analysis and without magic commands
+-
+
+
+
+
+
+
+
+
